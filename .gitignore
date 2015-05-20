@@ -3,7 +3,7 @@
 
 *.jpg
 *.jpeg
-*.logs
+*.log
 
 #Project files
 initialize.php
