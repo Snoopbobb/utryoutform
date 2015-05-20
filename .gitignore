@@ -1,5 +1,9 @@
 #OS junk files
 *.DS_Store
 
+*.jpg
+*.jpeg
+*.logs
+
 #Project files
 initialize.php
